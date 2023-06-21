@@ -1,0 +1,98 @@
+[
+  {
+    "nome": "O Diário Perdido de Gravity falls",
+    "autor": ["Alex Hirsch"," Rob Renzetti"],
+    "editora": "Universo dos Livros",
+    "categoria": "Ficção",
+    "preco": "52,90",
+    "estoque": 10
+  },
+  {
+    "nome": "O Homem de Giz",
+    "autor": "C.J. Tudor",
+    "editora": "Intrínseca",
+    "categoria": "Ficção",
+    "preco": "60,00",
+    "estoque": 5
+  },
+  {
+    "nome": "Death Note",
+    "autor": ["Tsugumi Ohba"," Takeshi Obata"],
+    "editora": "JBC",
+    "categoria": "Quadrinhos, Mangás & Graphic Novels",
+    "preco": "49,90",
+    "estoque": 8
+  },
+  {
+    "nome": "Batman - A Criança dos Sonhos",
+    "autor": "Kia Asamiya",
+    "editora": "Panini",
+    "categoria": "Quadrinhos, Mangás & Graphic Novels",
+    "preco": "49,90",
+    "estoque": 12
+  },
+  {
+    "nome": "Mindset: A nova psicologia do sucesso",
+    "autor": "Carol S. Dweck",
+    "editora": "Objetiva",
+    "categoria": "Autoajuda",
+    "preco": "39,90",
+    "estoque": 15
+  },
+  {
+    "nome": "O Diário de Anne Frank",
+    "autor": "Anne Frank",
+    "editora": "Principis",
+    "categoria": "Biografia",
+    "preco": "20,00",
+    "estoque": 3
+  },
+  {
+    "nome": "favoRita",
+    "autor": "Rita Lee",
+    "editora": "Globo Livros",
+    "categoria": "Biografia",
+    "preco": "79,90",
+    "estoque": 7
+  },
+  {
+    "nome": "Felicidade: Modos de usar",
+    "autor": ["Mario Sergio Cortella", "Leandro Karnal", "Luiz Felipe Pondé"],
+    "editora": "Planeta",
+    "categoria": "Autoajuda",
+    "preco": "48,90",
+    "estoque": 20
+  },
+  {
+    "nome": "O Adversário Secreto",
+    "autor": "Agatha Christie",
+    "editora": "Globo Livros",
+    "categoria": "Suspense",
+    "preco": "28,90",
+    "estoque": 9
+  },
+  {
+    "nome": "O Instituto",
+    "autor": "Stephen King",
+    "editora": "Suma",
+    "categoria": "Suspense",
+    "preco": "57,90",
+    "estoque": 14
+  },
+  {
+    "nome": "Teto para Dois",
+    "autor": "Beth O`Leary",
+    "editora": "Intrínseca",
+    "categoria": "Romance",
+    "preco": "39,90",
+    "estoque": 6
+  },
+  {
+    "nome": "O Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "categoria": "Fantasia",
+    "preco": "39,90",
+    "estoque": 11
+  }
+]

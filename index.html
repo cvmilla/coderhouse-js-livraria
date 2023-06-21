@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Estoque | Livraria Coder</title>
+    <link rel="stylesheet" href="./styles/stylesheet.css">
+    <script defer src="./js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10.15.5/dist/sweetalert2.min.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/heart-apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/heart-favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/heart-favicon-16x16.png">
+</head>
+<body>
+  <h1>Controle de Estoque</h1>
+  
+  <form id="search-form">
+    <label for="search-type">Buscar por:</label>
+    <select id="search-type">
+      <option value="title">Título</option>
+      <option value="author">Autor</option>
+      <option value="publisher">Editora</option>
+      <option value="category">Categoria</option>
+    </select>
+    <input type="text" id="search-term" placeholder="Digite o termo de busca">
+    <button type="submit">Buscar</button>
+  </form>
+
+  <table id="book-list">
+    <thead>
+      <tr>
+        <th>Título</th>
+        <th>Autor</th>
+        <th>Editora</th>
+        <th>Categoria</th>
+        <th>Preço</th>
+        <th>Estoque</th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10.15.5/dist/sweetalert2.min.js"></script>
+</body>
+</html>
